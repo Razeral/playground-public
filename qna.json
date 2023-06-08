@@ -1,4 +1,3 @@
-{
-    "Question": "What is Govtext?",
-    "Answer": "The best thing ever."
-  }
+GovText is a comprehensive Natural Language Processing (NLP) platform with an intuitive user interface. Our goal is to help users analyse their textual data efficiently.
+
+GovText currently has two text analytics tools: Topic Modelling and Summarisation. More Text Analytics tools will be added in the future.
